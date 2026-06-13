@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T17:18:48+08:00",
-  "total": 371,
+  "updated": "2026-06-13T22:31:46+08:00",
+  "total": 378,
   "stocks": [
     {
       "code": "600183",
@@ -89,6 +89,11 @@
         {
           "name": "机器人概念",
           "verified": null,
+          "detail": ""
+        },
+        {
+          "name": "新材料",
+          "verified": true,
           "detail": ""
         }
       ],
@@ -3460,13 +3465,13 @@
       "pb": 9.6,
       "concepts": [
         {
-          "name": "国产芯片",
-          "verified": null,
+          "name": "消费电子概念",
+          "verified": true,
           "detail": ""
         },
         {
-          "name": "消费电子概念",
-          "verified": true,
+          "name": "国产芯片",
+          "verified": null,
           "detail": ""
         }
       ],
@@ -3594,11 +3599,6 @@
           "name": "物联网",
           "verified": true,
           "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
         }
       ],
       "latest_news": [],
@@ -3668,23 +3668,13 @@
           "detail": ""
         },
         {
+          "name": "激光雷达",
+          "verified": true,
+          "detail": ""
+        },
+        {
           "name": "算力概念",
           "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "F5G概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "激光雷达",
-          "verified": null,
           "detail": ""
         }
       ],
@@ -23993,6 +23983,167 @@
         ],
         "key_question": "AI+工业收入占比？海外市场增速？新行业(新能源)拓展？"
       }
+    },
+    {
+      "code": "600995",
+      "name": "南网储能",
+      "market": "sh",
+      "core_business": "储能/电力数字化",
+      "category": "infra",
+      "price": 13.4,
+      "change_pct": 1.9,
+      "market_cap": 42826000000.0,
+      "pe": 24.22,
+      "pb": 3.5,
+      "concepts": [
+        {
+          "name": "AI相关",
+          "verified": null,
+          "detail": "待校验"
+        }
+      ],
+      "latest_news": [],
+      "revenue_detail": "",
+      "added_price": 0,
+      "added_date": "20260613"
+    },
+    {
+      "code": "603607",
+      "name": "京华激光",
+      "market": "sh",
+      "core_business": "激光防伪/光学膜",
+      "category": "optical",
+      "price": 21.62,
+      "change_pct": 0.7,
+      "market_cap": 3860000000.0,
+      "pe": 36.06,
+      "pb": 4.05,
+      "concepts": [
+        {
+          "name": "AI相关",
+          "verified": null,
+          "detail": "待校验"
+        }
+      ],
+      "latest_news": [],
+      "revenue_detail": "",
+      "added_price": 0,
+      "added_date": "20260613"
+    },
+    {
+      "code": "688297",
+      "name": "中无人机",
+      "market": "sh",
+      "core_business": "军用无人机龙头",
+      "category": "robot",
+      "price": 47.92,
+      "change_pct": 4.11,
+      "market_cap": 32345999999.999996,
+      "pe": 365.1,
+      "pb": 6.0,
+      "concepts": [
+        {
+          "name": "AI相关",
+          "verified": null,
+          "detail": "待校验"
+        }
+      ],
+      "latest_news": [],
+      "revenue_detail": "",
+      "added_price": 0,
+      "added_date": "20260613"
+    },
+    {
+      "code": "688518",
+      "name": "联赢激光",
+      "market": "sh",
+      "core_business": "激光焊接设备龙头",
+      "category": "optical",
+      "price": 25.28,
+      "change_pct": -2.09,
+      "market_cap": 8629000000.0,
+      "pe": 51.89,
+      "pb": 7.44,
+      "concepts": [
+        {
+          "name": "AI相关",
+          "verified": null,
+          "detail": "待校验"
+        }
+      ],
+      "latest_news": [],
+      "revenue_detail": "",
+      "added_price": 0,
+      "added_date": "20260613"
+    },
+    {
+      "code": "300220",
+      "name": "金运激光",
+      "market": "sz",
+      "core_business": "激光加工/3D打印",
+      "category": "optical",
+      "price": 11.6,
+      "change_pct": 1.4,
+      "market_cap": 1754000000.0,
+      "pe": -446.51,
+      "pb": 3.76,
+      "concepts": [
+        {
+          "name": "AI相关",
+          "verified": null,
+          "detail": "待校验"
+        }
+      ],
+      "latest_news": [],
+      "revenue_detail": "",
+      "added_price": 0,
+      "added_date": "20260613"
+    },
+    {
+      "code": "300747",
+      "name": "锐科激光",
+      "market": "sz",
+      "core_business": "光纤激光器龙头",
+      "category": "optical",
+      "price": 47.96,
+      "change_pct": -1.82,
+      "market_cap": 26933999999.999996,
+      "pe": 144.24,
+      "pb": 9.33,
+      "concepts": [
+        {
+          "name": "AI相关",
+          "verified": null,
+          "detail": "待校验"
+        }
+      ],
+      "latest_news": [],
+      "revenue_detail": "",
+      "added_price": 0,
+      "added_date": "20260613"
+    },
+    {
+      "code": "301021",
+      "name": "英诺激光",
+      "market": "sz",
+      "core_business": "超快激光器",
+      "category": "optical",
+      "price": 88.46,
+      "change_pct": 4.93,
+      "market_cap": 13522999999.999998,
+      "pe": 202.66,
+      "pb": 7.34,
+      "concepts": [
+        {
+          "name": "AI相关",
+          "verified": null,
+          "detail": "待校验"
+        }
+      ],
+      "latest_news": [],
+      "revenue_detail": "",
+      "added_price": 0,
+      "added_date": "20260613"
     }
   ]
 }

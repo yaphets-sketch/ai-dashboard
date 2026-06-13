@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T17:18:48+08:00",
+  "updated": "2026-06-13T22:31:46+08:00",
   "source": "tencent-qt",
   "stocks": [
     {
@@ -11,7 +11,7 @@
       "pe": 93.54,
       "pb": 8.36,
       "category": "chip",
-      "core_business": "覆铜板/PCB材料(生益)",
+      "core_business": "覆铜板(CCL)/PCB上游材料",
       "concepts": [
         {
           "name": "PCB概念",
@@ -34,7 +34,7 @@
       "pe": -136.65,
       "pb": 7.78,
       "category": "chip",
-      "core_business": "磁性材料/蓝宝石",
+      "core_business": "磁性材料/蓝宝石衬底",
       "concepts": [
         {
           "name": "国产芯片",
@@ -44,11 +44,6 @@
         {
           "name": "机器人概念",
           "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "新材料",
-          "verified": true,
           "detail": ""
         }
       ]
@@ -62,7 +57,7 @@
       "pe": 74.09,
       "pb": 8.29,
       "category": "optical",
-      "core_business": "光纤光缆/海洋通信/智能电网",
+      "core_business": "光纤光缆/海洋通信/海缆",
       "concepts": [
         {
           "name": "光纤概念",
@@ -90,7 +85,7 @@
       "pe": 51.94,
       "pb": 7.33,
       "category": "optical",
-      "core_business": "光纤光缆/海缆/新能源",
+      "core_business": "光纤光缆/海缆/光伏",
       "concepts": [
         {
           "name": "光纤概念",
@@ -118,7 +113,7 @@
       "pe": 74.65,
       "pb": 9.77,
       "category": "chip",
-      "core_business": "半导体封测龙头(长电)",
+      "core_business": "半导体封测龙头(SiP/FC)",
       "concepts": [
         {
           "name": "国产芯片",
@@ -151,7 +146,7 @@
       "pe": 74.77,
       "pb": 14.05,
       "category": "chip",
-      "core_business": "半导体/工程EPC(太极)",
+      "core_business": "半导体EPC/工程总包",
       "concepts": [
         {
           "name": "国产芯片",
@@ -175,18 +170,7 @@
       "pb": 3.91,
       "category": "other",
       "core_business": "智能电网/新能源",
-      "concepts": [
-        {
-          "name": "智能电网",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "电力物联网",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "601138",
@@ -197,7 +181,7 @@
       "pe": 34.24,
       "pb": 3.25,
       "category": "compute",
-      "core_business": "AI服务器/云计算(工业富联)",
+      "core_business": "AI服务器/云计算/智能制造",
       "concepts": [
         {
           "name": "算力概念",
@@ -246,18 +230,7 @@
       "pb": 7.02,
       "category": "other",
       "core_business": "绝缘材料/光学膜",
-      "concepts": [
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "新能源",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "601869",
@@ -268,7 +241,7 @@
       "pe": 312.3,
       "pb": 6.77,
       "category": "optical",
-      "core_business": "光纤预制棒/光缆/海缆",
+      "core_business": "光纤预制棒/光缆龙头",
       "concepts": [
         {
           "name": "光纤概念",
@@ -297,18 +270,7 @@
       "pb": 12.26,
       "category": "infra",
       "core_business": "电源设备/新能源",
-      "concepts": [
-        {
-          "name": "新能源",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "电源设备",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603083",
@@ -319,24 +281,8 @@
       "pe": 192.32,
       "pb": 6.66,
       "category": "optical",
-      "core_business": "通信设备/光器件",
-      "concepts": [
-        {
-          "name": "CPO概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "光通信模块",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "光模块/通信设备",
+      "concepts": null
     },
     {
       "code": "603256",
@@ -346,20 +292,9 @@
       "market_cap": 188054000000.0,
       "pe": 604.15,
       "pb": 8.11,
-      "category": "other",
-      "core_business": "精密结构件",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "电子玻璃纤维布",
+      "concepts": null
     },
     {
       "code": "603459",
@@ -371,18 +306,7 @@
       "pb": 8.88,
       "category": "other",
       "core_business": "精密结构件/新能源汽车",
-      "concepts": [
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "新能源",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603629",
@@ -394,18 +318,7 @@
       "pb": 8.78,
       "category": "other",
       "core_business": "精密结构件/汽车零部件",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "精密制造",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603678",
@@ -416,7 +329,7 @@
       "pe": 109.41,
       "pb": 10.82,
       "category": "chip",
-      "core_business": "MLCC陶瓷电容",
+      "core_business": "MLCC瓷介电容",
       "concepts": [
         {
           "name": "国产芯片",
@@ -438,20 +351,9 @@
       "market_cap": 29170999999.999996,
       "pe": -157.33,
       "pb": 17.47,
-      "category": "optical",
-      "core_business": "光学玻璃/光掩模基板",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "光学光电子",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "玻璃基板/光掩模",
+      "concepts": null
     },
     {
       "code": "603986",
@@ -462,7 +364,7 @@
       "pe": 117.43,
       "pb": 6.0,
       "category": "chip",
-      "core_business": "NOR Flash/MCU(兆易创新)",
+      "core_business": "NOR Flash/MCU/DRAM",
       "concepts": [
         {
           "name": "存储芯片",
@@ -505,7 +407,7 @@
       "pe": 107.46,
       "pb": 9.31,
       "category": "chip",
-      "core_business": "内存接口芯片(澜起)",
+      "core_business": "内存接口芯片( DDR5 )龙头",
       "concepts": [
         {
           "name": "国产芯片",
@@ -533,7 +435,7 @@
       "pe": 104.35,
       "pb": 6.93,
       "category": "chip",
-      "core_business": "半导体设备(中微)",
+      "core_business": "半导体刻蚀/CVD设备龙头",
       "concepts": [
         {
           "name": "国产芯片",
@@ -561,7 +463,7 @@
       "pe": 470.55,
       "pb": 10.62,
       "category": "robot",
-      "core_business": "谐波减速器(绿的谐波)",
+      "core_business": "谐波减速器龙头(人形机器人核心)",
       "concepts": [
         {
           "name": "机器人概念",
@@ -599,7 +501,7 @@
       "pe": 238.73,
       "pb": 6.85,
       "category": "chip",
-      "core_business": "国产AI芯片龙头(DCU/海光)",
+      "core_business": "国产DCU/AI加速卡龙头",
       "concepts": [
         {
           "name": "国产芯片",
@@ -655,7 +557,7 @@
       "pe": 82.94,
       "pb": 8.4,
       "category": "chip",
-      "core_business": "半导体设备(CMP)",
+      "core_business": "CMP设备/减薄设备",
       "concepts": [
         {
           "name": "国产芯片",
@@ -678,7 +580,7 @@
       "pe": 1069.61,
       "pb": 11.42,
       "category": "optical",
-      "core_business": "特种光纤/光纤器件",
+      "core_business": "特种光纤/光纤环",
       "concepts": [
         {
           "name": "光纤概念",
@@ -724,7 +626,7 @@
       "pe": 477.62,
       "pb": 6.71,
       "category": "optical",
-      "core_business": "光器件/精密光学透镜",
+      "core_business": "精密光学元件/透镜",
       "concepts": [
         {
           "name": "CPO概念",
@@ -747,7 +649,7 @@
       "pe": 457.0,
       "pb": 9.39,
       "category": "optical",
-      "core_business": "光芯片(DSP/Driver)",
+      "core_business": "光通信DSP/Driver芯片",
       "concepts": [
         {
           "name": "CPO概念",
@@ -775,7 +677,7 @@
       "pe": -127.13,
       "pb": 6.48,
       "category": "chip",
-      "core_business": "蜂窝通信芯片",
+      "core_business": "蜂窝通信芯片(Cat1/NB-IoT)",
       "concepts": [
         {
           "name": "国产芯片",
@@ -803,7 +705,7 @@
       "pe": 286.75,
       "pb": 4.76,
       "category": "chip",
-      "core_business": "国产AI芯片(思元/寒武纪)",
+      "core_business": "国产AI芯片(思元)龙头",
       "concepts": [
         {
           "name": "国产芯片",
@@ -836,7 +738,7 @@
       "pe": 170.49,
       "pb": 9.57,
       "category": "optical",
-      "core_business": "PLC分路器芯片/光芯片",
+      "core_business": "PLC/AWG光芯片",
       "concepts": [
         {
           "name": "CPO概念",
@@ -868,25 +770,9 @@
       "market_cap": 49333000000.0,
       "pe": 366.54,
       "pb": 11.46,
-      "category": "optical",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "传感器",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "3D视觉",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "3D视觉传感器",
+      "concepts": null
     },
     {
       "code": "688347",
@@ -898,18 +784,7 @@
       "pb": 9.35,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "晶圆代工",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688456",
@@ -921,18 +796,7 @@
       "pb": 12.61,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688498",
@@ -943,7 +807,7 @@
       "pe": 489.55,
       "pb": 8.95,
       "category": "optical",
-      "core_business": "光芯片IDM(EML/DFB)",
+      "core_business": "光芯片IDM(EML/DFB激光器)",
       "concepts": [
         {
           "name": "CPO概念",
@@ -972,18 +836,7 @@
       "pb": 17.82,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "工业软件",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688519",
@@ -993,20 +846,9 @@
       "market_cap": 69893000000.0,
       "pe": 189.24,
       "pb": 15.88,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "PCB概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "覆铜板",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "覆铜板(CCL)",
+      "concepts": null
     },
     {
       "code": "688521",
@@ -1017,24 +859,8 @@
       "pe": -181.0,
       "pb": 7.74,
       "category": "chip",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "IP授权",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "芯片IP授权/设计服务",
+      "concepts": null
     },
     {
       "code": "688525",
@@ -1045,7 +871,7 @@
       "pe": 39.15,
       "pb": 9.55,
       "category": "chip",
-      "core_business": "存储芯片/模组(佰维)",
+      "core_business": "存储芯片模组/SSD",
       "concepts": [
         {
           "name": "存储芯片",
@@ -1093,7 +919,7 @@
       "pe": 150.08,
       "pb": 6.9,
       "category": "infra",
-      "core_business": "高速连接器(华丰)",
+      "core_business": "高速连接器/液冷连接",
       "concepts": [
         {
           "name": "铜缆高速连接",
@@ -1122,18 +948,7 @@
       "pb": 12.56,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "航天装备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "卫星导航",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688676",
@@ -1145,18 +960,7 @@
       "pb": 4.71,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "医疗器械",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "专精特新",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688702",
@@ -1168,23 +972,7 @@
       "pb": 8.78,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "通信设备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688807",
@@ -1196,18 +984,7 @@
       "pb": 9.58,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "光通信模块",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688808",
@@ -1219,18 +996,7 @@
       "pb": 12.17,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "晶圆代工",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688820",
@@ -1242,18 +1008,7 @@
       "pb": 14.35,
       "category": "chip",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "先进封装",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688981",
@@ -1264,7 +1019,7 @@
       "pe": 198.34,
       "pb": 8.24,
       "category": "chip",
-      "core_business": "晶圆代工龙头(中芯国际)",
+      "core_business": "晶圆代工龙头(14nm/28nm)",
       "concepts": [
         {
           "name": "国产芯片",
@@ -1300,13 +1055,13 @@
       "core_business": "",
       "concepts": [
         {
-          "name": "消费电子概念",
-          "verified": true,
+          "name": "国产芯片",
+          "verified": null,
           "detail": ""
         },
         {
-          "name": "国产芯片",
-          "verified": null,
+          "name": "消费电子概念",
+          "verified": true,
           "detail": ""
         }
       ]
@@ -1321,18 +1076,7 @@
       "pb": 11.08,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "有色金属",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "000725",
@@ -1342,8 +1086,8 @@
       "market_cap": 206337000000.0,
       "pe": 34.68,
       "pb": 7.72,
-      "category": "other",
-      "core_business": "",
+      "category": "chip",
+      "core_business": "面板龙头(OLED/LCD)",
       "concepts": [
         {
           "name": "消费电子概念",
@@ -1353,6 +1097,11 @@
         {
           "name": "物联网",
           "verified": true,
+          "detail": ""
+        },
+        {
+          "name": "人工智能",
+          "verified": null,
           "detail": ""
         }
       ]
@@ -1366,7 +1115,7 @@
       "pe": 89.35,
       "pb": 3.04,
       "category": "optical",
-      "core_business": "",
+      "core_business": "光模块/激光设备/传感器",
       "concepts": [
         {
           "name": "CPO概念",
@@ -1379,13 +1128,23 @@
           "detail": ""
         },
         {
-          "name": "激光雷达",
+          "name": "算力概念",
           "verified": true,
           "detail": ""
         },
         {
-          "name": "算力概念",
+          "name": "5G概念",
           "verified": true,
+          "detail": ""
+        },
+        {
+          "name": "F5G概念",
+          "verified": true,
+          "detail": ""
+        },
+        {
+          "name": "激光雷达",
+          "verified": null,
           "detail": ""
         }
       ]
@@ -1400,18 +1159,7 @@
       "pb": 7.36,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "存储芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "001339",
@@ -1423,18 +1171,7 @@
       "pb": 3.31,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI PC",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "消费电子概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002008",
@@ -1445,19 +1182,8 @@
       "pe": 88.86,
       "pb": 7.58,
       "category": "optical",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "激光雷达",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "激光设备龙头",
+      "concepts": null
     },
     {
       "code": "002015",
@@ -1469,18 +1195,7 @@
       "pb": 6.6,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "新能源",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002080",
@@ -1492,18 +1207,7 @@
       "pb": 8.67,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "风电",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002119",
@@ -1514,7 +1218,7 @@
       "pe": 103.38,
       "pb": 9.94,
       "category": "chip",
-      "core_business": "",
+      "core_business": "引线框架/半导体材料",
       "concepts": [
         {
           "name": "国产芯片",
@@ -1532,7 +1236,7 @@
       "pe": 60.04,
       "pb": 9.79,
       "category": "chip",
-      "core_business": "半导体封测(通富微电)",
+      "core_business": "半导体封测(FC-BGA)",
       "concepts": [
         {
           "name": "国产芯片",
@@ -1570,7 +1274,7 @@
       "pe": 65.42,
       "pb": 9.07,
       "category": "chip",
-      "core_business": "",
+      "core_business": "半导体封测",
       "concepts": [
         {
           "name": "国产芯片",
@@ -1593,7 +1297,7 @@
       "pe": 159.59,
       "pb": 4.14,
       "category": "optical",
-      "core_business": "光模块/光器件",
+      "core_business": "光模块/光器件/光放大器",
       "concepts": [
         {
           "name": "CPO概念",
@@ -1637,13 +1341,7 @@
       "pb": 10.28,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002364",
@@ -1655,13 +1353,7 @@
       "pb": 8.49,
       "category": "infra",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "数据中心(AIDC)",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002371",
@@ -1672,7 +1364,7 @@
       "pe": 86.73,
       "pb": 4.05,
       "category": "chip",
-      "core_business": "半导体设备龙头(北方华创)",
+      "core_business": "半导体设备龙头(刻蚀/薄膜)",
       "concepts": [
         {
           "name": "国产芯片",
@@ -1700,7 +1392,7 @@
       "pe": 195.32,
       "pb": 6.07,
       "category": "chip",
-      "core_business": "PCB/精密制造(东山精密)",
+      "core_business": "FPC/精密制造/PCB",
       "concepts": [
         {
           "name": "PCB概念",
@@ -1729,13 +1421,7 @@
       "pb": 7.24,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002436",
@@ -1746,19 +1432,8 @@
       "pe": 445.18,
       "pb": 6.31,
       "category": "chip",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "PCB/样板小批量",
+      "concepts": null
     },
     {
       "code": "002463",
@@ -1769,7 +1444,7 @@
       "pe": 56.01,
       "pb": 7.56,
       "category": "chip",
-      "core_business": "AI服务器PCB龙头(沪电)",
+      "core_business": "AI服务器PCB龙头",
       "concepts": [
         {
           "name": "PCB概念",
@@ -1791,20 +1466,9 @@
       "market_cap": 69105000000.0,
       "pe": 100.94,
       "pb": 9.41,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "被动元件",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "新能源",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "铝电解电容/薄膜电容",
+      "concepts": null
     },
     {
       "code": "002527",
@@ -1815,14 +1479,8 @@
       "pe": 1468.56,
       "pb": 5.96,
       "category": "robot",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "工业机器人/自动化",
+      "concepts": null
     },
     {
       "code": "002837",
@@ -1833,14 +1491,8 @@
       "pe": 174.5,
       "pb": 5.84,
       "category": "infra",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据中心(AIDC)",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "精密温控/液冷龙头",
+      "concepts": null
     },
     {
       "code": "002851",
@@ -1852,18 +1504,7 @@
       "pb": 6.75,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "电源设备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "新能源",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002916",
@@ -1874,7 +1515,7 @@
       "pe": 71.12,
       "pb": 6.39,
       "category": "chip",
-      "core_business": "IC载板/PCB(深南电路)",
+      "core_business": "IC载板/高多层PCB",
       "concepts": [
         {
           "name": "PCB概念",
@@ -1897,7 +1538,7 @@
       "pe": 63.38,
       "pb": 7.97,
       "category": "chip",
-      "core_business": "HDI/类载板(鹏鼎)",
+      "core_business": "HDI/类载板/FPC",
       "concepts": [
         {
           "name": "PCB概念",
@@ -1921,13 +1562,7 @@
       "pb": 6.63,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300017",
@@ -1939,18 +1574,7 @@
       "pb": 3.63,
       "category": "compute",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300136",
@@ -1960,20 +1584,9 @@
       "market_cap": 93719000000.0,
       "pe": 127.32,
       "pb": 8.9,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "天线/射频/EMC",
+      "concepts": null
     },
     {
       "code": "300274",
@@ -1985,28 +1598,7 @@
       "pb": 7.3,
       "category": "optical",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "光学光电子",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "CPO概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "液冷服务器",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300308",
@@ -2061,18 +1653,7 @@
       "pb": 9.66,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300394",
@@ -2083,7 +1664,7 @@
       "pe": 141.11,
       "pb": 8.18,
       "category": "optical",
-      "core_business": "光器件(FA/连接器)",
+      "core_business": "光器件龙头(FA/隔离器/透镜)",
       "concepts": [
         {
           "name": "CPO概念",
@@ -2115,20 +1696,9 @@
       "market_cap": 62555999999.99999,
       "pe": 129.83,
       "pb": 9.88,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "石英玻璃/半导体材料",
+      "concepts": null
     },
     {
       "code": "300408",
@@ -2138,20 +1708,9 @@
       "market_cap": 242437000000.0,
       "pe": 84.28,
       "pb": 8.83,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "被动元件",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "消费电子概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "陶瓷基片/MLCC/光纤插芯",
+      "concepts": null
     },
     {
       "code": "300475",
@@ -2163,13 +1722,7 @@
       "pb": 4.9,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300476",
@@ -2179,20 +1732,9 @@
       "market_cap": 321577000000.0,
       "pe": 68.72,
       "pb": 7.44,
-      "category": "infra",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "AI服务器PCB/HDI",
+      "concepts": null
     },
     {
       "code": "300502",
@@ -2237,13 +1779,7 @@
       "pb": 7.72,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "机器人概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300548",
@@ -2254,19 +1790,8 @@
       "pe": 175.93,
       "pb": 4.39,
       "category": "optical",
-      "core_business": "PLC光分路器芯片",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "PLC分路器/AWG芯片",
+      "concepts": null
     },
     {
       "code": "300570",
@@ -2278,23 +1803,7 @@
       "pb": 10.0,
       "category": "optical",
       "core_business": "光连接器/适配器",
-      "concepts": [
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "铜缆高速连接",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "CPO概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300604",
@@ -2304,20 +1813,9 @@
       "market_cap": 141551000000.0,
       "pe": 89.99,
       "pb": 13.0,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "半导体测试分选设备",
+      "concepts": null
     },
     {
       "code": "300620",
@@ -2328,29 +1826,8 @@
       "pe": 338.31,
       "pb": 6.03,
       "category": "optical",
-      "core_business": "光器件/调制器芯片",
-      "concepts": [
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "CPO概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "光调制器/光器件",
+      "concepts": null
     },
     {
       "code": "300657",
@@ -2362,13 +1839,7 @@
       "pb": 5.77,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300666",
@@ -2380,13 +1851,7 @@
       "pb": 22.9,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300757",
@@ -2398,18 +1863,7 @@
       "pb": 6.74,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "自动化",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300776",
@@ -2421,18 +1875,7 @@
       "pb": 12.83,
       "category": "optical",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "激光雷达",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300814",
@@ -2442,15 +1885,9 @@
       "market_cap": 32030000000.0,
       "pe": 841.54,
       "pb": 8.33,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "PCB概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "PCB/样板",
+      "concepts": null
     },
     {
       "code": "300825",
@@ -2462,13 +1899,7 @@
       "pb": 6.1,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "无人驾驶",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300870",
@@ -2480,18 +1911,7 @@
       "pb": 7.25,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "电源设备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300903",
@@ -2501,15 +1921,9 @@
       "market_cap": 30489999999.999996,
       "pe": -115.03,
       "pb": 9.35,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "PCB概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "chip",
+      "core_business": "PCB/HDI板",
+      "concepts": null
     },
     {
       "code": "300943",
@@ -2521,13 +1935,7 @@
       "pb": 8.51,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "智能电网",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301123",
@@ -2539,13 +1947,7 @@
       "pb": 10.67,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301183",
@@ -2557,13 +1959,7 @@
       "pb": 6.47,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301205",
@@ -2574,19 +1970,8 @@
       "pe": 452.21,
       "pb": 11.54,
       "category": "optical",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "高速光模块/光器件",
+      "concepts": null
     },
     {
       "code": "301217",
@@ -2598,13 +1983,7 @@
       "pb": 11.64,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "有色金属",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301308",
@@ -2616,18 +1995,7 @@
       "pb": 7.32,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "存储芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301313",
@@ -2639,13 +2007,7 @@
       "pb": 21.99,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301362",
@@ -2657,23 +2019,7 @@
       "pb": 9.61,
       "category": "optical",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "光学光电子",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "CPO概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301377",
@@ -2685,13 +2031,7 @@
       "pb": 8.95,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301389",
@@ -2703,13 +2043,7 @@
       "pb": 11.03,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301486",
@@ -2721,18 +2055,7 @@
       "pb": 7.75,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301489",
@@ -2744,13 +2067,7 @@
       "pb": 4.91,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301526",
@@ -2762,13 +2079,7 @@
       "pb": 12.82,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301666",
@@ -2780,13 +2091,7 @@
       "pb": 15.41,
       "category": "optical",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "881121",
@@ -2798,13 +2103,7 @@
       "pb": 0,
       "category": "chip",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "884287",
@@ -2816,18 +2115,7 @@
       "pb": 0,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "CPO概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "光通信模块",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603501",
@@ -2839,28 +2127,7 @@
       "pb": 2.24,
       "category": "chip",
       "core_business": "CIS图像传感器龙头",
-      "concepts": [
-        {
-          "name": "传感器",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "物联网",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "消费电子概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "000034",
@@ -2871,14 +2138,8 @@
       "pe": 41.92,
       "pb": 2.75,
       "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "IT分销/云计算服务",
+      "concepts": null
     },
     {
       "code": "000063",
@@ -2890,13 +2151,7 @@
       "pb": 6.74,
       "category": "compute",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "000066",
@@ -2906,20 +2161,9 @@
       "market_cap": 50032000000.0,
       "pe": 2480.05,
       "pb": 4.33,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "compute",
+      "core_business": "国产计算/服务器/整机",
+      "concepts": null
     },
     {
       "code": "000070",
@@ -2930,19 +2174,8 @@
       "pe": -30.3,
       "pb": 7.47,
       "category": "optical",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "光纤概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "光纤光缆/光通信设备",
+      "concepts": null
     },
     {
       "code": "000158",
@@ -2952,20 +2185,9 @@
       "market_cap": 24667000000.0,
       "pe": 779.95,
       "pb": 5.9,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "智慧城市/纺织",
+      "concepts": null
     },
     {
       "code": "000555",
@@ -2977,18 +2199,7 @@
       "pb": 3.8,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "000938",
@@ -2998,30 +2209,9 @@
       "market_cap": 71931000000.0,
       "pe": 33.85,
       "pb": 2.93,
-      "category": "optical",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "compute",
+      "core_business": "网络设备/服务器/云计算",
+      "concepts": null
     },
     {
       "code": "000977",
@@ -3032,7 +2222,7 @@
       "pe": 33.25,
       "pb": 2.59,
       "category": "compute",
-      "core_business": "",
+      "core_business": "AI服务器龙头/云计算",
       "concepts": [
         {
           "name": "算力概念",
@@ -3056,18 +2246,7 @@
       "pb": 6.13,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002049",
@@ -3079,18 +2258,7 @@
       "pb": 4.4,
       "category": "optical",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "FPGA",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002063",
@@ -3102,28 +2270,7 @@
       "pb": 2.5,
       "category": "optical",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002065",
@@ -3133,25 +2280,9 @@
       "market_cap": 22438000000.0,
       "pe": 46.36,
       "pb": 2.76,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "IT服务/智慧城市",
+      "concepts": null
     },
     {
       "code": "002093",
@@ -3163,18 +2294,7 @@
       "pb": 3.13,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002123",
@@ -3186,18 +2306,7 @@
       "pb": 2.84,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002195",
@@ -3209,18 +2318,7 @@
       "pb": 2.8,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "互联网",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002197",
@@ -3232,18 +2330,7 @@
       "pb": 3.15,
       "category": "compute",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "数据中心(AIDC)",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002212",
@@ -3254,19 +2341,8 @@
       "pe": 178.88,
       "pb": 9.45,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "网络安全/密码安全龙头",
+      "concepts": null
     },
     {
       "code": "002229",
@@ -3278,13 +2354,7 @@
       "pb": 4.78,
       "category": "compute",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002230",
@@ -3295,7 +2365,7 @@
       "pe": 112.43,
       "pb": 2.79,
       "category": "app",
-      "core_business": "",
+      "core_business": "AI大模型(星火)/语音龙头",
       "concepts": [
         {
           "name": "人工智能",
@@ -3328,24 +2398,8 @@
       "pe": 13.36,
       "pb": 1.58,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "机器视觉",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "物联网",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "AI视觉/安防",
+      "concepts": null
     },
     {
       "code": "002253",
@@ -3357,18 +2411,7 @@
       "pb": 2.97,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002261",
@@ -3379,19 +2422,8 @@
       "pe": 627.57,
       "pb": 6.02,
       "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "华为AI算力/软硬一体",
+      "concepts": null
     },
     {
       "code": "002268",
@@ -3401,20 +2433,9 @@
       "market_cap": 11078000000.0,
       "pe": 303.41,
       "pb": 2.34,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "密码安全/数据加密",
+      "concepts": null
     },
     {
       "code": "002279",
@@ -3424,20 +2445,9 @@
       "market_cap": 5915000000.0,
       "pe": 78.87,
       "pb": 3.24,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "大数据",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "电子政务/大数据",
+      "concepts": null
     },
     {
       "code": "002298",
@@ -3449,13 +2459,7 @@
       "pb": 3.17,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "智能电网",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002301",
@@ -3467,13 +2471,7 @@
       "pb": 3.78,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002315",
@@ -3485,18 +2483,7 @@
       "pb": 3.65,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002316",
@@ -3508,18 +2495,7 @@
       "pb": 3.96,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "通信设备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "物联网",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002339",
@@ -3531,13 +2507,7 @@
       "pb": 3.05,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002352",
@@ -3549,13 +2519,7 @@
       "pb": 1.6,
       "category": "infra",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "数据中心(AIDC)",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002362",
@@ -3567,18 +2531,7 @@
       "pb": 4.84,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002396",
@@ -3590,23 +2543,7 @@
       "pb": 5.32,
       "category": "infra",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "通信设备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002410",
@@ -3618,18 +2555,7 @@
       "pb": 2.71,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002415",
@@ -3640,24 +2566,8 @@
       "pe": 18.55,
       "pb": 1.83,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "机器视觉",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "物联网",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "AI视觉/安防龙头",
+      "concepts": null
     },
     {
       "code": "002439",
@@ -3668,19 +2578,8 @@
       "pe": -29.15,
       "pb": 3.88,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "网络安全/安全运营",
+      "concepts": null
     },
     {
       "code": "002467",
@@ -3692,18 +2591,7 @@
       "pb": 4.14,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002474",
@@ -3715,23 +2603,7 @@
       "pb": 3.74,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002642",
@@ -3743,18 +2615,7 @@
       "pb": 2.18,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002649",
@@ -3766,18 +2627,7 @@
       "pb": 2.53,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002657",
@@ -3789,18 +2639,7 @@
       "pb": 7.13,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002771",
@@ -3812,18 +2651,7 @@
       "pb": 6.59,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "远程办公",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002849",
@@ -3835,18 +2663,7 @@
       "pb": 4.56,
       "category": "compute",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002908",
@@ -3858,18 +2675,7 @@
       "pb": 2.69,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "民生服务",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002912",
@@ -3881,18 +2687,7 @@
       "pb": 2.89,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002929",
@@ -3904,18 +2699,7 @@
       "pb": 5.25,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "5G概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002955",
@@ -3927,18 +2711,7 @@
       "pb": 9.7,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "002984",
@@ -3950,13 +2723,7 @@
       "pb": 9.63,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "汽车零部件",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300002",
@@ -3968,18 +2735,7 @@
       "pb": 3.8,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300020",
@@ -3990,19 +2746,8 @@
       "pe": -1.57,
       "pb": 6.19,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "智慧城市",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "智慧城市/智慧交通",
+      "concepts": null
     },
     {
       "code": "300030",
@@ -4014,13 +2759,7 @@
       "pb": 4.08,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "医疗器械",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300033",
@@ -4031,24 +2770,8 @@
       "pe": 46.74,
       "pb": 9.28,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "金融科技",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "金融AI/智能投顾",
+      "concepts": null
     },
     {
       "code": "300036",
@@ -4060,23 +2783,7 @@
       "pb": 4.32,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300044",
@@ -4088,18 +2795,7 @@
       "pb": 4.8,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300047",
@@ -4111,18 +2807,7 @@
       "pb": 2.75,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300065",
@@ -4134,18 +2819,7 @@
       "pb": 4.53,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "海洋装备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "无人驾驶",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300078",
@@ -4157,18 +2831,7 @@
       "pb": 3.18,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "医疗器械",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300085",
@@ -4178,20 +2841,9 @@
       "market_cap": 18832000000.0,
       "pe": -146.14,
       "pb": 14.09,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "金融科技",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "金融科技/数字货币",
+      "concepts": null
     },
     {
       "code": "300113",
@@ -4201,20 +2853,9 @@
       "market_cap": 13011000000.000002,
       "pe": 30.64,
       "pb": 3.4,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "游戏",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "游戏/电竞/AI",
+      "concepts": null
     },
     {
       "code": "300166",
@@ -4224,25 +2865,9 @@
       "market_cap": 16397999999.999998,
       "pe": -74.83,
       "pb": 5.39,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "大数据",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "工业互联网",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "大数据/工业互联网",
+      "concepts": null
     },
     {
       "code": "300168",
@@ -4253,19 +2878,8 @@
       "pe": -14.93,
       "pb": 2.54,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "智慧城市",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "智慧城市/医疗IT/AI",
+      "concepts": null
     },
     {
       "code": "300188",
@@ -4276,19 +2890,8 @@
       "pe": -11.03,
       "pb": 2.64,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "网络安全/取证/大数据",
+      "concepts": null
     },
     {
       "code": "300212",
@@ -4299,19 +2902,8 @@
       "pe": -2.65,
       "pb": 10.6,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据要素",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "数据资产/蓝光存储",
+      "concepts": null
     },
     {
       "code": "300213",
@@ -4323,13 +2915,7 @@
       "pb": 3.6,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300223",
@@ -4341,13 +2927,7 @@
       "pb": 7.05,
       "category": "chip",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300229",
@@ -4358,24 +2938,8 @@
       "pe": -38.01,
       "pb": 3.18,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "大数据",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "多模态AI",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "NLP/大数据/AI搜索",
+      "concepts": null
     },
     {
       "code": "300231",
@@ -4387,18 +2951,7 @@
       "pb": 3.4,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300235",
@@ -4410,18 +2963,7 @@
       "pb": 2.75,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300249",
@@ -4431,20 +2973,9 @@
       "market_cap": 6766000000.0,
       "pe": 205.41,
       "pb": 2.16,
-      "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "数据中心(AIDC)",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "数据中心设备/温控",
+      "concepts": null
     },
     {
       "code": "300271",
@@ -4456,23 +2987,7 @@
       "pb": 3.28,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300287",
@@ -4484,13 +2999,7 @@
       "pb": 3.44,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300297",
@@ -4502,13 +3011,7 @@
       "pb": 0.0,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300339",
@@ -4520,23 +3023,7 @@
       "pb": 2.34,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300365",
@@ -4548,18 +3035,7 @@
       "pb": 4.26,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300366",
@@ -4569,20 +3045,9 @@
       "market_cap": 3080000000.0,
       "pe": -4.91,
       "pb": 1.8,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "大数据",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "大数据/数据库/信创",
+      "concepts": null
     },
     {
       "code": "300369",
@@ -4593,19 +3058,8 @@
       "pe": -113.89,
       "pb": 3.47,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "网络安全",
+      "concepts": null
     },
     {
       "code": "300378",
@@ -4616,19 +3070,8 @@
       "pe": 58.46,
       "pb": 5.29,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "ERP",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "智能制造软件/ERP",
+      "concepts": null
     },
     {
       "code": "300379",
@@ -4639,14 +3082,8 @@
       "pe": -2.02,
       "pb": 0.0,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "基础软件/中间件",
+      "concepts": null
     },
     {
       "code": "300380",
@@ -4658,18 +3095,7 @@
       "pb": 8.12,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300383",
@@ -4679,25 +3105,9 @@
       "market_cap": 21823000000.0,
       "pe": -27.08,
       "pb": 3.32,
-      "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据中心(AIDC)",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "infra",
+      "core_business": "IDC数据中心/云计算",
+      "concepts": null
     },
     {
       "code": "300419",
@@ -4709,18 +3119,7 @@
       "pb": 1.89,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300448",
@@ -4732,23 +3131,7 @@
       "pb": 3.97,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300454",
@@ -4760,23 +3143,7 @@
       "pb": 3.92,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300469",
@@ -4788,18 +3155,7 @@
       "pb": 4.77,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300578",
@@ -4811,18 +3167,7 @@
       "pb": 5.44,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300603",
@@ -4832,20 +3177,9 @@
       "market_cap": 3914000000.0,
       "pe": -21.82,
       "pb": 2.73,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "通信设备",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "通信技术服务/算力",
+      "concepts": null
     },
     {
       "code": "300608",
@@ -4855,20 +3189,9 @@
       "market_cap": 4036999999.9999995,
       "pe": -22.23,
       "pb": 4.73,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "电信软件/大数据",
+      "concepts": null
     },
     {
       "code": "300624",
@@ -4879,19 +3202,8 @@
       "pe": -95.03,
       "pb": 3.27,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "AI创意软件/视频编辑",
+      "concepts": null
     },
     {
       "code": "300634",
@@ -4902,14 +3214,8 @@
       "pe": 39.36,
       "pb": 3.01,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "企业邮箱/AI办公",
+      "concepts": null
     },
     {
       "code": "300645",
@@ -4921,13 +3227,7 @@
       "pb": 3.99,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300661",
@@ -4939,13 +3239,7 @@
       "pb": 6.1,
       "category": "chip",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300663",
@@ -4957,23 +3251,7 @@
       "pb": 9.53,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300674",
@@ -4983,20 +3261,9 @@
       "market_cap": 11307000000.0,
       "pe": 26.97,
       "pb": 3.32,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "银行IT/金融科技",
+      "concepts": null
     },
     {
       "code": "300682",
@@ -5006,15 +3273,9 @@
       "market_cap": 12270000000.0,
       "pe": 236.53,
       "pb": 3.17,
-      "category": "optical",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "光通信模块",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "电力信息化/AI应用",
+      "concepts": null
     },
     {
       "code": "300687",
@@ -5025,19 +3286,8 @@
       "pe": -92.63,
       "pb": 4.92,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "ERP",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "智能制造/工业软件",
+      "concepts": null
     },
     {
       "code": "300730",
@@ -5047,20 +3297,9 @@
       "market_cap": 3207000000.0,
       "pe": -25.69,
       "pb": 6.2,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "电子政务/信创OA",
+      "concepts": null
     },
     {
       "code": "300768",
@@ -5072,18 +3311,7 @@
       "pb": 3.81,
       "category": "app",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300846",
@@ -5095,13 +3323,7 @@
       "pb": 3.15,
       "category": "compute",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300872",
@@ -5113,18 +3335,7 @@
       "pb": 3.92,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "300925",
@@ -5135,19 +3346,8 @@
       "pe": 77.65,
       "pb": 4.98,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "IT外包服务",
+      "concepts": null
     },
     {
       "code": "301159",
@@ -5159,18 +3359,7 @@
       "pb": 3.76,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "数据要素",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301171",
@@ -5180,20 +3369,9 @@
       "market_cap": 21710000000.0,
       "pe": 562.06,
       "pb": 5.03,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "广告营销",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "跨境营销/AI广告",
+      "concepts": null
     },
     {
       "code": "301172",
@@ -5205,13 +3383,7 @@
       "pb": 3.29,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301185",
@@ -5223,13 +3395,7 @@
       "pb": 6.43,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301248",
@@ -5241,18 +3407,7 @@
       "pb": 6.05,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301269",
@@ -5264,23 +3419,7 @@
       "pb": 6.02,
       "category": "chip",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "EDA",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301316",
@@ -5291,19 +3430,8 @@
       "pe": 140.19,
       "pb": 4.06,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "IT外包/AI应用",
+      "concepts": null
     },
     {
       "code": "301380",
@@ -5315,13 +3443,7 @@
       "pb": 3.84,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301390",
@@ -5333,13 +3455,7 @@
       "pb": 4.35,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301396",
@@ -5349,20 +3465,9 @@
       "market_cap": 37087000000.0,
       "pe": 1058.01,
       "pb": 12.99,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "智慧城市",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "智慧城市/智慧医疗",
+      "concepts": null
     },
     {
       "code": "301428",
@@ -5374,13 +3479,7 @@
       "pb": 3.65,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "301503",
@@ -5392,18 +3491,7 @@
       "pb": 2.71,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600186",
@@ -5415,13 +3503,7 @@
       "pb": 11.16,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600322",
@@ -5433,18 +3515,7 @@
       "pb": 8.04,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "5G概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "通信设备",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600355",
@@ -5456,18 +3527,7 @@
       "pb": 0.0,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "消费电子概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600410",
@@ -5477,25 +3537,9 @@
       "market_cap": 19134000000.0,
       "pe": -89.94,
       "pb": 2.38,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "云计算/IT服务/AI算力",
+      "concepts": null
     },
     {
       "code": "600449",
@@ -5507,13 +3551,7 @@
       "pb": 3.85,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600476",
@@ -5523,20 +3561,9 @@
       "market_cap": 1639999999.9999998,
       "pe": -3.53,
       "pb": 4.1,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "电子政务/邮政信息化",
+      "concepts": null
     },
     {
       "code": "600570",
@@ -5547,19 +3574,8 @@
       "pe": 30.71,
       "pb": 4.52,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "金融科技",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "金融IT/智能投顾",
+      "concepts": null
     },
     {
       "code": "600588",
@@ -5570,19 +3586,8 @@
       "pe": -24.83,
       "pb": 3.54,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "企业ERP/云服务/智能体",
+      "concepts": null
     },
     {
       "code": "600602",
@@ -5592,15 +3597,9 @@
       "market_cap": 23387000000.0,
       "pe": 119.23,
       "pb": 5.04,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "compute",
+      "core_business": "算力/云服务/智慧城市",
+      "concepts": null
     },
     {
       "code": "600633",
@@ -5612,13 +3611,7 @@
       "pb": 2.23,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600654",
@@ -5630,13 +3623,7 @@
       "pb": 3.51,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600718",
@@ -5647,19 +3634,8 @@
       "pe": -19.0,
       "pb": 2.2,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "智慧城市",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "智慧城市/智能汽车/医疗IT",
+      "concepts": null
     },
     {
       "code": "600728",
@@ -5671,18 +3647,7 @@
       "pb": 2.64,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600756",
@@ -5692,20 +3657,9 @@
       "market_cap": 4615000000.0,
       "pe": -17.44,
       "pb": 2.87,
-      "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "电子政务/信创",
+      "concepts": null
     },
     {
       "code": "600770",
@@ -5717,18 +3671,7 @@
       "pb": 3.67,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "光伏概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600797",
@@ -5740,18 +3683,7 @@
       "pb": 2.35,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "大数据",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "600804",
@@ -5762,19 +3694,8 @@
       "pe": -0.31,
       "pb": 0.0,
       "category": "infra",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据中心(AIDC)",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "IDC数据中心/宽带",
+      "concepts": null
     },
     {
       "code": "600845",
@@ -5785,24 +3706,8 @@
       "pe": 41.46,
       "pb": 2.79,
       "category": "infra",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "工业互联网",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "数据中心(AIDC)",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "工业互联网/IDC",
+      "concepts": null
     },
     {
       "code": "600850",
@@ -5812,20 +3717,9 @@
       "market_cap": 12577000000.0,
       "pe": 41.42,
       "pb": 3.72,
-      "category": "other",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "行业数字化/IT服务",
+      "concepts": null
     },
     {
       "code": "600941",
@@ -5837,23 +3731,7 @@
       "pb": 1.15,
       "category": "infra",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "601360",
@@ -5864,24 +3742,8 @@
       "pe": 99.34,
       "pb": 3.0,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "AI搜索/网络安全",
+      "concepts": null
     },
     {
       "code": "601728",
@@ -5893,23 +3755,7 @@
       "pb": 4.01,
       "category": "infra",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603019",
@@ -5920,7 +3766,7 @@
       "pe": 54.2,
       "pb": 1.81,
       "category": "compute",
-      "core_business": "",
+      "core_business": "国产算力服务器/高性能计算",
       "concepts": [
         {
           "name": "算力概念",
@@ -5948,19 +3794,8 @@
       "pe": 119.77,
       "pb": 2.69,
       "category": "infra",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "通信设备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "通信设备/交换机/路由器",
+      "concepts": null
     },
     {
       "code": "603171",
@@ -5972,18 +3807,7 @@
       "pb": 4.27,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "财税数字化",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603290",
@@ -5995,13 +3819,7 @@
       "pb": 5.95,
       "category": "chip",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603496",
@@ -6013,18 +3831,7 @@
       "pb": 2.85,
       "category": "compute",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603528",
@@ -6036,18 +3843,7 @@
       "pb": 10.96,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603636",
@@ -6059,23 +3855,7 @@
       "pb": 4.41,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603660",
@@ -6087,18 +3867,7 @@
       "pb": 3.54,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "安防",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "603881",
@@ -6108,20 +3877,9 @@
       "market_cap": 22162000000.0,
       "pe": 158.91,
       "pb": 3.37,
-      "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据中心(AIDC)",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "infra",
+      "core_business": "IDC数据中心服务",
+      "concepts": null
     },
     {
       "code": "688001",
@@ -6132,24 +3890,8 @@
       "pe": 244.35,
       "pb": 7.83,
       "category": "chip",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "CPU",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "core_business": "国产CPU(龙芯中科)",
+      "concepts": null
     },
     {
       "code": "688072",
@@ -6160,24 +3902,8 @@
       "pe": 110.92,
       "pb": 11.56,
       "category": "chip",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "半导体设备",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "中芯国际概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "半导体CVD/PVD设备",
+      "concepts": null
     },
     {
       "code": "688088",
@@ -6188,19 +3914,8 @@
       "pe": 54.4,
       "pb": 6.31,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "机器视觉",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "AI视觉算法/手机影像",
+      "concepts": null
     },
     {
       "code": "688111",
@@ -6211,24 +3926,8 @@
       "pe": 27.45,
       "pb": 3.06,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "AI应用",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "办公软件",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "人工智能",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "AI办公软件(WPS)/大模型",
+      "concepts": null
     },
     {
       "code": "688155",
@@ -6240,18 +3939,7 @@
       "pb": 8.12,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "机器人概念",
-          "verified": null,
-          "detail": ""
-        },
-        {
-          "name": "自动化",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688158",
@@ -6261,20 +3949,9 @@
       "market_cap": 16013000000.0,
       "pe": -614.01,
       "pb": 3.56,
-      "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "云计算/公有云",
+      "concepts": null
     },
     {
       "code": "688160",
@@ -6285,19 +3962,8 @@
       "pe": 131.4,
       "pb": 7.1,
       "category": "robot",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "机器人概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "自动化",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "运动控制/低压伺服",
+      "concepts": null
     },
     {
       "code": "688187",
@@ -6309,18 +3975,7 @@
       "pb": 8.74,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "功率半导体",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688206",
@@ -6332,18 +3987,7 @@
       "pb": 9.01,
       "category": "chip",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "EDA",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688227",
@@ -6355,18 +3999,7 @@
       "pb": 16.03,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688262",
@@ -6377,19 +4010,8 @@
       "pe": -41.78,
       "pb": 5.28,
       "category": "chip",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "汽车芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "汽车MCU/SoC芯片",
+      "concepts": null
     },
     {
       "code": "688305",
@@ -6400,19 +4022,8 @@
       "pe": 97.1,
       "pb": 7.85,
       "category": "robot",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "机器人概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "数控机床",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "五轴数控机床/机器人减速器",
+      "concepts": null
     },
     {
       "code": "688316",
@@ -6422,20 +4033,9 @@
       "market_cap": 2660000000.0,
       "pe": -46.28,
       "pb": 4.65,
-      "category": "compute",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "云计算",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "算力概念",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "category": "app",
+      "core_business": "云计算/私有云",
+      "concepts": null
     },
     {
       "code": "688333",
@@ -6447,18 +4047,7 @@
       "pb": 5.26,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "3D打印",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "新材料",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688366",
@@ -6470,13 +4059,7 @@
       "pb": 3.92,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "AI相关",
-          "verified": null,
-          "detail": "待校验"
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688416",
@@ -6487,19 +4070,8 @@
       "pe": -371.76,
       "pb": 10.74,
       "category": "chip",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "存储芯片",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "国产芯片",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "NOR Flash/MCU",
+      "concepts": null
     },
     {
       "code": "688475",
@@ -6511,23 +4083,7 @@
       "pb": 3.6,
       "category": "other",
       "core_business": "",
-      "concepts": [
-        {
-          "name": "消费电子概念",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "物联网",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "AI应用",
-          "verified": null,
-          "detail": ""
-        }
-      ]
+      "concepts": null
     },
     {
       "code": "688561",
@@ -6538,19 +4094,8 @@
       "pe": -13.08,
       "pb": 2.68,
       "category": "app",
-      "core_business": "",
-      "concepts": [
-        {
-          "name": "数据安全",
-          "verified": true,
-          "detail": ""
-        },
-        {
-          "name": "信创",
-          "verified": true,
-          "detail": ""
-        }
-      ]
+      "core_business": "网络安全龙头",
+      "concepts": null
     },
     {
       "code": "600783",
@@ -6562,7 +4107,7 @@
       "pb": 10.25,
       "category": "app",
       "core_business": "",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "600877",
@@ -6574,7 +4119,7 @@
       "pb": 2.97,
       "category": "chip",
       "core_business": "",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "688027",
@@ -6586,7 +4131,7 @@
       "pb": 4.76,
       "category": "other",
       "core_business": "",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "688135",
@@ -6598,7 +4143,7 @@
       "pb": 7.55,
       "category": "chip",
       "core_business": "",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "300024",
@@ -6609,8 +4154,8 @@
       "pe": -53.36,
       "pb": 3.81,
       "category": "robot",
-      "core_business": "",
-      "concepts": []
+      "core_business": "工业机器人龙头",
+      "concepts": null
     },
     {
       "code": "002050",
@@ -6621,8 +4166,8 @@
       "pe": 46.14,
       "pb": 5.45,
       "category": "infra",
-      "core_business": "热管理/液冷",
-      "concepts": []
+      "core_business": "热管理/液冷组件",
+      "concepts": null
     },
     {
       "code": "002138",
@@ -6633,8 +4178,8 @@
       "pe": 46.89,
       "pb": 6.56,
       "category": "chip",
-      "core_business": "电感/被动元件",
-      "concepts": []
+      "core_business": "电感/变压器/被动元件",
+      "concepts": null
     },
     {
       "code": "002152",
@@ -6645,8 +4190,8 @@
       "pe": 28.84,
       "pb": 2.82,
       "category": "compute",
-      "core_business": "AI服务器",
-      "concepts": []
+      "core_business": "AI服务器/金融科技",
+      "concepts": null
     },
     {
       "code": "002241",
@@ -6657,8 +4202,8 @@
       "pe": 20.55,
       "pb": 3.3,
       "category": "other",
-      "core_business": "声学/AI耳机",
-      "concepts": []
+      "core_business": "声学/AI耳机/VR",
+      "concepts": null
     },
     {
       "code": "002273",
@@ -6669,8 +4214,8 @@
       "pe": 37.59,
       "pb": 6.33,
       "category": "optical",
-      "core_business": "光学镜头",
-      "concepts": []
+      "core_business": "光学镜头/红外镜头",
+      "concepts": null
     },
     {
       "code": "002284",
@@ -6682,7 +4227,7 @@
       "pb": 2.62,
       "category": "app",
       "core_business": "智能驾驶",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "002368",
@@ -6693,8 +4238,8 @@
       "pe": -11.21,
       "pb": 2.81,
       "category": "compute",
-      "core_business": "信创/AI服务器",
-      "concepts": []
+      "core_business": "信创整机/AI服务器",
+      "concepts": null
     },
     {
       "code": "002373",
@@ -6705,8 +4250,8 @@
       "pe": 228.41,
       "pb": 3.05,
       "category": "app",
-      "core_business": "AI交通",
-      "concepts": []
+      "core_business": "智能交通/车路协同",
+      "concepts": null
     },
     {
       "code": "002402",
@@ -6718,7 +4263,7 @@
       "pb": 2.72,
       "category": "other",
       "core_business": "智能控制器",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "002405",
@@ -6729,8 +4274,8 @@
       "pe": 157.26,
       "pb": 3.51,
       "category": "app",
-      "core_business": "智能驾驶/地图",
-      "concepts": []
+      "core_business": "高精地图/智能驾驶",
+      "concepts": null
     },
     {
       "code": "002456",
@@ -6741,8 +4286,8 @@
       "pe": -198.95,
       "pb": 4.27,
       "category": "optical",
-      "core_business": "光学镜头",
-      "concepts": []
+      "core_business": "光学镜头/车载镜头",
+      "concepts": null
     },
     {
       "code": "002475",
@@ -6753,8 +4298,8 @@
       "pe": 27.01,
       "pb": 5.4,
       "category": "infra",
-      "core_business": "消费电子/连接器",
-      "concepts": []
+      "core_business": "连接器/线缆/代工",
+      "concepts": null
     },
     {
       "code": "002518",
@@ -6765,8 +4310,8 @@
       "pe": 41.47,
       "pb": 3.99,
       "category": "infra",
-      "core_business": "UPS电源/算力",
-      "concepts": []
+      "core_business": "UPS电源/数据中心",
+      "concepts": null
     },
     {
       "code": "002544",
@@ -6777,8 +4322,8 @@
       "pe": 545.71,
       "pb": 3.44,
       "category": "infra",
-      "core_business": "通信网络",
-      "concepts": []
+      "core_business": "通信网络规划/设计",
+      "concepts": null
     },
     {
       "code": "002609",
@@ -6789,8 +4334,8 @@
       "pe": 74.68,
       "pb": 2.33,
       "category": "app",
-      "core_business": "AI交通",
-      "concepts": []
+      "core_business": "智慧停车/AI交通",
+      "concepts": null
     },
     {
       "code": "002747",
@@ -6801,8 +4346,8 @@
       "pe": 239.54,
       "pb": 10.85,
       "category": "robot",
-      "core_business": "工业机器人",
-      "concepts": []
+      "core_business": "工业机器人/协作机器人",
+      "concepts": null
     },
     {
       "code": "002869",
@@ -6814,7 +4359,7 @@
       "pb": 3.0,
       "category": "app",
       "core_business": "ETC/智能交通",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "002896",
@@ -6825,8 +4370,8 @@
       "pe": 272.91,
       "pb": 6.54,
       "category": "robot",
-      "core_business": "减速器/机器人",
-      "concepts": []
+      "core_business": "精密减速器(RV/谐波)",
+      "concepts": null
     },
     {
       "code": "300059",
@@ -6837,8 +4382,8 @@
       "pe": 21.73,
       "pb": 4.95,
       "category": "app",
-      "core_business": "金融AI",
-      "concepts": []
+      "core_business": "金融数据/互联网券商",
+      "concepts": null
     },
     {
       "code": "300101",
@@ -6849,8 +4394,8 @@
       "pe": 595.35,
       "pb": 5.81,
       "category": "chip",
-      "core_business": "北斗/军工芯片",
-      "concepts": []
+      "core_business": "北斗导航芯片/模块",
+      "concepts": null
     },
     {
       "code": "300115",
@@ -6861,8 +4406,8 @@
       "pe": 73.01,
       "pb": 2.94,
       "category": "other",
-      "core_business": "精密结构件",
-      "concepts": []
+      "core_business": "精密功能件/结构件",
+      "concepts": null
     },
     {
       "code": "300124",
@@ -6873,8 +4418,8 @@
       "pe": 38.36,
       "pb": 5.06,
       "category": "robot",
-      "core_business": "伺服/机器人",
-      "concepts": []
+      "core_business": "伺服驱动器/机器人",
+      "concepts": null
     },
     {
       "code": "300170",
@@ -6886,7 +4431,7 @@
       "pb": 3.92,
       "category": "app",
       "core_business": "企业数字化/AI Agent",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "300183",
@@ -6897,8 +4442,8 @@
       "pe": -309.53,
       "pb": 3.53,
       "category": "chip",
-      "core_business": "通信芯片",
-      "concepts": []
+      "core_business": "电力物联网通信芯片",
+      "concepts": null
     },
     {
       "code": "300207",
@@ -6909,8 +4454,8 @@
       "pe": 47.59,
       "pb": 7.53,
       "category": "other",
-      "core_business": "消费电子电池",
-      "concepts": []
+      "core_business": "电池Pack/消费电子",
+      "concepts": null
     },
     {
       "code": "300248",
@@ -6921,8 +4466,8 @@
       "pe": 67.15,
       "pb": 5.43,
       "category": "app",
-      "core_business": "AI校园",
-      "concepts": []
+      "core_business": "智慧校园/AI教育",
+      "concepts": null
     },
     {
       "code": "300253",
@@ -6933,8 +4478,8 @@
       "pe": -43.29,
       "pb": 3.74,
       "category": "app",
-      "core_business": "AI医疗",
-      "concepts": []
+      "core_business": "医疗信息化/AI医疗",
+      "concepts": null
     },
     {
       "code": "300290",
@@ -6946,7 +4491,7 @@
       "pb": 9.5,
       "category": "app",
       "core_business": "AI医疗",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "300327",
@@ -6957,8 +4502,8 @@
       "pe": 134.94,
       "pb": 8.14,
       "category": "chip",
-      "core_business": "MCU芯片",
-      "concepts": []
+      "core_business": "MCU/触控芯片",
+      "concepts": null
     },
     {
       "code": "300359",
@@ -6969,8 +4514,8 @@
       "pe": -35.01,
       "pb": 3.89,
       "category": "app",
-      "core_business": "AI教育",
-      "concepts": []
+      "core_business": "在线教育/AI教育",
+      "concepts": null
     },
     {
       "code": "300418",
@@ -6981,8 +4526,8 @@
       "pe": -27.96,
       "pb": 2.92,
       "category": "app",
-      "core_business": "AI大模型",
-      "concepts": []
+      "core_business": "AI大模型/浏览器/搜索",
+      "concepts": null
     },
     {
       "code": "300433",
@@ -6993,8 +4538,8 @@
       "pe": 63.14,
       "pb": 15.04,
       "category": "other",
-      "core_business": "消费电子/玻璃",
-      "concepts": []
+      "core_business": "玻璃盖板/蓝宝石",
+      "concepts": null
     },
     {
       "code": "300451",
@@ -7005,8 +4550,8 @@
       "pe": -11.81,
       "pb": 4.25,
       "category": "app",
-      "core_business": "AI医疗",
-      "concepts": []
+      "core_business": "医疗信息化",
+      "concepts": null
     },
     {
       "code": "300458",
@@ -7017,8 +4562,8 @@
       "pe": 80.69,
       "pb": 5.23,
       "category": "chip",
-      "core_business": "AIoT芯片",
-      "concepts": []
+      "core_business": "AIoT/平板芯片",
+      "concepts": null
     },
     {
       "code": "300474",
@@ -7029,8 +4574,8 @@
       "pe": -160.48,
       "pb": 5.19,
       "category": "chip",
-      "core_business": "GPU芯片",
-      "concepts": []
+      "core_business": "GPU芯片(国产)",
+      "concepts": null
     },
     {
       "code": "300496",
@@ -7041,8 +4586,8 @@
       "pe": 60.01,
       "pb": 6.03,
       "category": "app",
-      "core_business": "智能驾驶/OS",
-      "concepts": []
+      "core_business": "智能驾驶OS/座舱",
+      "concepts": null
     },
     {
       "code": "300499",
@@ -7053,8 +4598,8 @@
       "pe": 341.51,
       "pb": 4.68,
       "category": "infra",
-      "core_business": "液冷温控",
-      "concepts": []
+      "core_business": "液冷板/散热设备",
+      "concepts": null
     },
     {
       "code": "300550",
@@ -7066,7 +4611,7 @@
       "pb": 5.63,
       "category": "app",
       "core_business": "AI医疗",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "300552",
@@ -7077,8 +4622,8 @@
       "pe": -35.74,
       "pb": 6.43,
       "category": "app",
-      "core_business": "AI交通",
-      "concepts": []
+      "core_business": "智能交通/ETC",
+      "concepts": null
     },
     {
       "code": "300555",
@@ -7089,8 +4634,8 @@
       "pe": -24.53,
       "pb": 3.42,
       "category": "infra",
-      "core_business": "通信设备",
-      "concepts": []
+      "core_business": "通信设备/物联网终端",
+      "concepts": null
     },
     {
       "code": "300559",
@@ -7101,8 +4646,8 @@
       "pe": 116.94,
       "pb": 3.72,
       "category": "app",
-      "core_business": "AI教育",
-      "concepts": []
+      "core_business": "教育信息化/AI评测",
+      "concepts": null
     },
     {
       "code": "300598",
@@ -7113,8 +4658,8 @@
       "pe": -70.17,
       "pb": 2.69,
       "category": "app",
-      "core_business": "智能驾驶",
-      "concepts": []
+      "core_business": "智能驾驶/座舱软件",
+      "concepts": null
     },
     {
       "code": "300607",
@@ -7125,8 +4670,8 @@
       "pe": 130.61,
       "pb": 8.77,
       "category": "robot",
-      "core_business": "工业机器人",
-      "concepts": []
+      "core_business": "工业机器人/注塑自动化",
+      "concepts": null
     },
     {
       "code": "300659",
@@ -7137,8 +4682,8 @@
       "pe": -27.84,
       "pb": 3.4,
       "category": "app",
-      "core_business": "数据安全",
-      "concepts": []
+      "core_business": "数据安全/隐私计算",
+      "concepts": null
     },
     {
       "code": "300672",
@@ -7149,8 +4694,8 @@
       "pe": -253.42,
       "pb": 8.05,
       "category": "chip",
-      "core_business": "存储芯片",
-      "concepts": []
+      "core_business": "存储控制芯片",
+      "concepts": null
     },
     {
       "code": "300735",
@@ -7161,8 +4706,8 @@
       "pe": 56.44,
       "pb": 4.02,
       "category": "chip",
-      "core_business": "PCB/EMS",
-      "concepts": []
+      "core_business": "PCB/EMS代工",
+      "concepts": null
     },
     {
       "code": "300770",
@@ -7173,8 +4718,8 @@
       "pe": 12.0,
       "pb": 2.39,
       "category": "app",
-      "core_business": "视频技术",
-      "concepts": []
+      "core_business": "视频AI/大视频",
+      "concepts": null
     },
     {
       "code": "300773",
@@ -7185,8 +4730,8 @@
       "pe": 10.55,
       "pb": 5.31,
       "category": "app",
-      "core_business": "AI智能体",
-      "concepts": []
+      "core_business": "支付终端/AI智能体",
+      "concepts": null
     },
     {
       "code": "300785",
@@ -7197,8 +4742,8 @@
       "pe": 78.28,
       "pb": 2.52,
       "category": "app",
-      "core_business": "AI购物助手",
-      "concepts": []
+      "core_business": "AI购物助手/消费决策",
+      "concepts": null
     },
     {
       "code": "300790",
@@ -7209,8 +4754,8 @@
       "pe": 46.24,
       "pb": 5.48,
       "category": "app",
-      "core_business": "AI视觉",
-      "concepts": []
+      "core_business": "AI视觉/智慧金融",
+      "concepts": null
     },
     {
       "code": "300857",
@@ -7221,8 +4766,8 @@
       "pe": 62.71,
       "pb": 6.18,
       "category": "compute",
-      "core_business": "AI训推平台/服务器",
-      "concepts": []
+      "core_business": "AI训推一体机/存储",
+      "concepts": null
     },
     {
       "code": "301018",
@@ -7233,8 +4778,8 @@
       "pe": 192.48,
       "pb": 5.51,
       "category": "infra",
-      "core_business": "液冷温控",
-      "concepts": []
+      "core_business": "精密温控/液冷",
+      "concepts": null
     },
     {
       "code": "600100",
@@ -7245,8 +4790,8 @@
       "pe": 71.86,
       "pb": 2.17,
       "category": "compute",
-      "core_business": "AI服务器",
-      "concepts": []
+      "core_business": "AI服务器/信创整机",
+      "concepts": null
     },
     {
       "code": "600498",
@@ -7257,8 +4802,8 @@
       "pe": 204.62,
       "pb": 10.36,
       "category": "optical",
-      "core_business": "通信设备/光纤",
-      "concepts": []
+      "core_business": "通信设备/光纤缆",
+      "concepts": null
     },
     {
       "code": "600536",
@@ -7269,8 +4814,8 @@
       "pe": -807.0,
       "pb": 12.16,
       "category": "app",
-      "core_business": "AI应用/软件",
-      "concepts": []
+      "core_business": "行业应用软件/AI",
+      "concepts": null
     },
     {
       "code": "600703",
@@ -7281,8 +4826,8 @@
       "pe": -139.55,
       "pb": 8.45,
       "category": "chip",
-      "core_business": "化合物半导体",
-      "concepts": []
+      "core_business": "化合物半导体(LED/射频)",
+      "concepts": null
     },
     {
       "code": "601231",
@@ -7293,8 +4838,8 @@
       "pe": 41.84,
       "pb": 9.33,
       "category": "chip",
-      "core_business": "SiP封装/消费电子",
-      "concepts": []
+      "core_business": "SiP封装/模组代工",
+      "concepts": null
     },
     {
       "code": "603005",
@@ -7306,7 +4851,7 @@
       "pb": 11.02,
       "category": "chip",
       "core_business": "封装/TSV",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "603039",
@@ -7317,8 +4862,8 @@
       "pe": 45.11,
       "pb": 7.77,
       "category": "app",
-      "core_business": "协同办公/AI",
-      "concepts": []
+      "core_business": "协同办公/AI智能体",
+      "concepts": null
     },
     {
       "code": "603160",
@@ -7329,8 +4874,8 @@
       "pe": 34.37,
       "pb": 5.57,
       "category": "chip",
-      "core_business": "指纹芯片",
-      "concepts": []
+      "core_business": "指纹识别/触控芯片",
+      "concepts": null
     },
     {
       "code": "603220",
@@ -7341,8 +4886,8 @@
       "pe": 192.24,
       "pb": 4.42,
       "category": "compute",
-      "core_business": "算力租赁",
-      "concepts": []
+      "core_business": "AI算力租赁/5G新基建",
+      "concepts": null
     },
     {
       "code": "603228",
@@ -7353,8 +4898,8 @@
       "pe": 63.22,
       "pb": 6.46,
       "category": "chip",
-      "core_business": "PCB",
-      "concepts": []
+      "core_business": "高多层PCB",
+      "concepts": null
     },
     {
       "code": "603728",
@@ -7365,8 +4910,8 @@
       "pe": 375.26,
       "pb": 7.89,
       "category": "robot",
-      "core_business": "电机/机器人",
-      "concepts": []
+      "core_business": "电机/运动控制/机器人",
+      "concepts": null
     },
     {
       "code": "603893",
@@ -7377,8 +4922,8 @@
       "pe": 58.27,
       "pb": 3.85,
       "category": "chip",
-      "core_business": "端侧AI芯片",
-      "concepts": []
+      "core_business": "端侧AI SoC芯片",
+      "concepts": null
     },
     {
       "code": "603927",
@@ -7389,8 +4934,8 @@
       "pe": 54.31,
       "pb": 2.36,
       "category": "app",
-      "core_business": "AI软件",
-      "concepts": []
+      "core_business": "AI应用软件/AI中台",
+      "concepts": null
     },
     {
       "code": "688019",
@@ -7401,8 +4946,8 @@
       "pe": 62.23,
       "pb": 9.2,
       "category": "chip",
-      "core_business": "CMP设备",
-      "concepts": []
+      "core_business": "CMP设备/抛光液",
+      "concepts": null
     },
     {
       "code": "688037",
@@ -7413,8 +4958,8 @@
       "pe": 730.42,
       "pb": 11.13,
       "category": "chip",
-      "core_business": "半导体设备",
-      "concepts": []
+      "core_business": "半导体涂胶显影设备",
+      "concepts": null
     },
     {
       "code": "688082",
@@ -7425,8 +4970,8 @@
       "pe": 117.26,
       "pb": 12.24,
       "category": "chip",
-      "core_business": "半导体设备",
-      "concepts": []
+      "core_business": "半导体清洗设备",
+      "concepts": null
     },
     {
       "code": "688106",
@@ -7438,7 +4983,7 @@
       "pb": 11.75,
       "category": "chip",
       "core_business": "特种气体/半导体",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "688107",
@@ -7449,8 +4994,8 @@
       "pe": -59.49,
       "pb": 10.61,
       "category": "chip",
-      "core_business": "FPGA芯片",
-      "concepts": []
+      "core_business": "FPGA/SoC芯片",
+      "concepts": null
     },
     {
       "code": "688110",
@@ -7461,8 +5006,8 @@
       "pe": 20348.66,
       "pb": 7.23,
       "category": "chip",
-      "core_business": "NAND芯片",
-      "concepts": []
+      "core_business": "SLC NAND Flash",
+      "concepts": null
     },
     {
       "code": "688126",
@@ -7473,8 +5018,8 @@
       "pe": -54.88,
       "pb": 20.98,
       "category": "chip",
-      "core_business": "硅片/半导体",
-      "concepts": []
+      "core_business": "大硅片/SOI衬底",
+      "concepts": null
     },
     {
       "code": "688141",
@@ -7485,8 +5030,8 @@
       "pe": -60.04,
       "pb": 8.25,
       "category": "chip",
-      "core_business": "电源芯片",
-      "concepts": []
+      "core_business": "电源管理芯片",
+      "concepts": null
     },
     {
       "code": "688147",
@@ -7497,8 +5042,8 @@
       "pe": 281.02,
       "pb": 14.16,
       "category": "chip",
-      "core_business": "半导体设备",
-      "concepts": []
+      "core_business": "半导体薄膜沉积设备",
+      "concepts": null
     },
     {
       "code": "688229",
@@ -7509,8 +5054,8 @@
       "pe": -37.69,
       "pb": 6.34,
       "category": "app",
-      "core_business": "AI监控/APM",
-      "concepts": []
+      "core_business": "AI监控/APM性能管理",
+      "concepts": null
     },
     {
       "code": "688246",
@@ -7521,8 +5066,8 @@
       "pe": -13.27,
       "pb": 5.84,
       "category": "app",
-      "core_business": "AI医疗",
-      "concepts": []
+      "core_business": "医疗信息化/AI辅助诊断",
+      "concepts": null
     },
     {
       "code": "688300",
@@ -7533,8 +5078,8 @@
       "pe": 150.74,
       "pb": 14.07,
       "category": "chip",
-      "core_business": "石英材料/半导体",
-      "concepts": []
+      "core_business": "石英纤维/半导体材料",
+      "concepts": null
     },
     {
       "code": "688327",
@@ -7545,8 +5090,8 @@
       "pe": -30.87,
       "pb": 8.29,
       "category": "app",
-      "core_business": "AI平台/Agent",
-      "concepts": []
+      "core_business": "AI视觉/人机协同平台",
+      "concepts": null
     },
     {
       "code": "688361",
@@ -7557,8 +5102,8 @@
       "pe": 14031.92,
       "pb": 10.57,
       "category": "chip",
-      "core_business": "半导体检测",
-      "concepts": []
+      "core_business": "半导体检测/量测设备",
+      "concepts": null
     },
     {
       "code": "688369",
@@ -7569,8 +5114,8 @@
       "pe": -10.99,
       "pb": 4.77,
       "category": "app",
-      "core_business": "协同办公/AI",
-      "concepts": []
+      "core_business": "协同办公/AI流程自动化",
+      "concepts": null
     },
     {
       "code": "688385",
@@ -7582,7 +5127,7 @@
       "pb": 4.63,
       "category": "chip",
       "core_business": "FPGA芯片",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "688396",
@@ -7593,8 +5138,8 @@
       "pe": 89.0,
       "pb": 10.15,
       "category": "chip",
-      "core_business": "功率半导体",
-      "concepts": []
+      "core_business": "功率半导体(IGBT/MOSFET)",
+      "concepts": null
     },
     {
       "code": "688403",
@@ -7605,8 +5150,8 @@
       "pe": 239.0,
       "pb": 8.33,
       "category": "chip",
-      "core_business": "封测",
-      "concepts": []
+      "core_business": "半导体封测(面板级)",
+      "concepts": null
     },
     {
       "code": "688409",
@@ -7617,8 +5162,8 @@
       "pe": 779.55,
       "pb": 10.75,
       "category": "chip",
-      "core_business": "半导体设备",
-      "concepts": []
+      "core_business": "半导体设备零部件",
+      "concepts": null
     },
     {
       "code": "688549",
@@ -7630,7 +5175,7 @@
       "pb": 16.64,
       "category": "chip",
       "core_business": "电子特气",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "688589",
@@ -7641,8 +5186,8 @@
       "pe": 653.98,
       "pb": 5.66,
       "category": "chip",
-      "core_business": "通信芯片",
-      "concepts": []
+      "core_business": "电力线载波通信芯片",
+      "concepts": null
     },
     {
       "code": "688596",
@@ -7654,7 +5199,7 @@
       "pb": 14.53,
       "category": "chip",
       "core_business": "电子特气",
-      "concepts": []
+      "concepts": null
     },
     {
       "code": "688627",
@@ -7665,8 +5210,8 @@
       "pe": 405.61,
       "pb": 13.83,
       "category": "chip",
-      "core_business": "半导体检测",
-      "concepts": []
+      "core_business": "半导体测试设备",
+      "concepts": null
     },
     {
       "code": "688662",
@@ -7677,8 +5222,8 @@
       "pe": 334.66,
       "pb": 15.67,
       "category": "optical",
-      "core_business": "TEC/光通信",
-      "concepts": []
+      "core_business": "TEC热电制冷/光模块散热",
+      "concepts": null
     },
     {
       "code": "688728",
@@ -7689,8 +5234,8 @@
       "pe": 333.45,
       "pb": 6.41,
       "category": "chip",
-      "core_business": "CIS芯片",
-      "concepts": []
+      "core_business": "CIS/BSI图像传感器",
+      "concepts": null
     },
     {
       "code": "688777",
@@ -7700,9 +5245,93 @@
       "market_cap": 83937000000.0,
       "pe": 211.93,
       "pb": 13.39,
+      "category": "app",
+      "core_business": "工业自动化/DCS龙头",
+      "concepts": null
+    },
+    {
+      "code": "600995",
+      "name": "南网储能",
+      "price": 13.4,
+      "change_pct": 1.9,
+      "market_cap": 42826000000.0,
+      "pe": 24.22,
+      "pb": 3.5,
+      "category": "infra",
+      "core_business": "储能/电力数字化",
+      "concepts": null
+    },
+    {
+      "code": "603607",
+      "name": "京华激光",
+      "price": 21.62,
+      "change_pct": 0.7,
+      "market_cap": 3860000000.0,
+      "pe": 36.06,
+      "pb": 4.05,
+      "category": "optical",
+      "core_business": "激光防伪/光学膜",
+      "concepts": null
+    },
+    {
+      "code": "688297",
+      "name": "中无人机",
+      "price": 47.92,
+      "change_pct": 4.11,
+      "market_cap": 32345999999.999996,
+      "pe": 365.1,
+      "pb": 6.0,
       "category": "robot",
-      "core_business": "工业AI/自动化",
-      "concepts": []
+      "core_business": "军用无人机龙头",
+      "concepts": null
+    },
+    {
+      "code": "688518",
+      "name": "联赢激光",
+      "price": 25.28,
+      "change_pct": -2.09,
+      "market_cap": 8629000000.0,
+      "pe": 51.89,
+      "pb": 7.44,
+      "category": "optical",
+      "core_business": "激光焊接设备龙头",
+      "concepts": null
+    },
+    {
+      "code": "300220",
+      "name": "金运激光",
+      "price": 11.6,
+      "change_pct": 1.4,
+      "market_cap": 1754000000.0,
+      "pe": -446.51,
+      "pb": 3.76,
+      "category": "optical",
+      "core_business": "激光加工/3D打印",
+      "concepts": null
+    },
+    {
+      "code": "300747",
+      "name": "锐科激光",
+      "price": 47.96,
+      "change_pct": -1.82,
+      "market_cap": 26933999999.999996,
+      "pe": 144.24,
+      "pb": 9.33,
+      "category": "optical",
+      "core_business": "光纤激光器龙头",
+      "concepts": null
+    },
+    {
+      "code": "301021",
+      "name": "英诺激光",
+      "price": 88.46,
+      "change_pct": 4.93,
+      "market_cap": 13522999999.999998,
+      "pe": 202.66,
+      "pb": 7.34,
+      "category": "optical",
+      "core_business": "超快激光器",
+      "concepts": null
     }
   ]
 }

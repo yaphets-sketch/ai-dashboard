@@ -3,7 +3,7 @@
 import json, os
 
 UNIVERSE = r"C:\soft\agent\ai-dashboard\data\universe.json"
-OUTPUT = r"C:\soft\agent\ai-dashboard\ai-dashboard.html"
+OUTPUT = r"C:\soft\agent\ai-dashboard\index.html"  # 输出到根目录，用于 GitHub Pages
 
 # 精简数据（只保留前端需要的字段）
 def slim_stock(s):
@@ -56,16 +56,9 @@ def main():
     inject = f"<script>const __INLINE_DATA__ = {stocks_json};</script>"
     html = html.replace("</head>", inject + "\n</head>")
 
-    # Add PWA manifest + apple-touch-icon for mobile install
-    pwa_inject = f'''<link rel="manifest" href="data:application/json,{{"name":"AI科技股看板","short_name":"AI看板","start_url":".","display":"standalone","background_color":"#080b12","theme_color":"#3b82f6","icons":[{{"src":"data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>","sizes":"100x100","type":"image/svg+xml"}}]}}">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="AI看板">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">'''
-    html = html.replace('</head>', pwa_inject + '\n</head>', 1)
-
     # Update footer
     html = html.replace("数据来源: 腾讯行情 + 同花顺财报 + 公开新闻 | 每日19:00自动更新 | 不构成投资建议",
-                         f"离线版 | 数据: {data.get('updated','')} | 可安装到手机桌面 | 每日自动更新")
+                         f"数据快照: {data.get('updated','')} | 每日19:00自动更新 | GitHub Pages")
 
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write(html)
